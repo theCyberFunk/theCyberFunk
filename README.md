@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theCyberFunk
+- 👋 Hi, I’m Aditya.
 - 👀 I’m interested in the art of creation.
 - 🌱 I’m currently learning blockchain.
 - 💞️ I’m looking to collaborate on budding web3 products. 
